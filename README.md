@@ -1,1 +1,0 @@
-# sourcing-strategy-generator
